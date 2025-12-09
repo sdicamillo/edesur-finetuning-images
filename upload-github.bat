@@ -5,3 +5,5 @@ git checkout -b main
 git add .
 git commit -m "subo imagenes para finetuning"
 git push origin main --force
+
+pause
